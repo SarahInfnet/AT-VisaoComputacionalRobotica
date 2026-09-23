@@ -1,0 +1,3 @@
+backend,latencia_ms,memoria_MB,top1_acc
+OpenCV DNN,18.43,525.9,55.6
+Keras,145.79,525.9,66.7

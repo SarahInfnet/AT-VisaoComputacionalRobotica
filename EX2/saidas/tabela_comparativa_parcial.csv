@@ -1,0 +1,3 @@
+backend,latencia_ms,top1_acc
+OpenCV DNN,20.84,70.0
+Keras,151.01,80.0
